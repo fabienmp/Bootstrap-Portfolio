@@ -47,6 +47,16 @@ p {
     width: 200px;
 }
 
+.card-body
+{
+    padding: 0px;
+}
+
+.card-body p
+{
+    line-height: 1em;
+}
+
 
 /* HEADER */
 

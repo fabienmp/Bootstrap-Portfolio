@@ -17,6 +17,10 @@ body {
     margin-left: 10px;
 }
 
+#nav-bar-links .li_delimiter_end {
+    margin-left: 10px;
+}
+
 .nav-link {
     padding: 0px;
 }
@@ -57,6 +61,34 @@ p {
 #profile_pic {
     margin-right: 20px;
     width: 200px;
+}
+
+.card-body
+{
+    padding: 10px;
+}
+
+.card-body p
+{
+    line-height: 1em;
+}
+
+.card 
+{
+    color: white;
+    background-color: #4aaaa5;
+}
+
+.btn-custom
+{
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #136b66;
+    border-color: #136b66; /*set the color you want here*/
 }
 
 /* Sticky footer styles
